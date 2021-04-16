@@ -7,19 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A2D7F6D25A602050030C3ED /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A2D7F6C25A602050030C3ED /* DetailsView.swift */; };
+		5A2D7F7025A6023D0030C3ED /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A2D7F6F25A6023D0030C3ED /* Data.swift */; };
+		5A60D4E925A8B1E800C8F13C /* Chilli Sauce.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5A60D4E825A8B1E800C8F13C /* Chilli Sauce.mov */; };
+		5A60D4ED25A8BF8E00C8F13C /* PlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A60D4EC25A8BF8E00C8F13C /* PlayerView.swift */; };
+		5A60D4F725A8C0FA00C8F13C /* Sultan's Delight.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5A60D4F025A8C0FA00C8F13C /* Sultan's Delight.mov */; };
+		5A60D4F825A8C0FA00C8F13C /* Adana.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5A60D4F125A8C0FA00C8F13C /* Adana.mov */; };
+		5A60D4F925A8C0FA00C8F13C /* Cheese Rolls.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5A60D4F225A8C0FA00C8F13C /* Cheese Rolls.mov */; };
+		5A60D4FB25A8C0FA00C8F13C /* Apple Crumble.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5A60D4F425A8C0FA00C8F13C /* Apple Crumble.mov */; };
+		5A60D4FC25A8C0FA00C8F13C /* Breakfast.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5A60D4F525A8C0FA00C8F13C /* Breakfast.mov */; };
+		5A60D4FD25A8C0FA00C8F13C /* Jacket Potato.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5A60D4F625A8C0FA00C8F13C /* Jacket Potato.mov */; };
 		5A8B6B5C251D58A300DD0C9F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A8B6B5B251D58A300DD0C9F /* AppDelegate.swift */; };
 		5A8B6B5E251D58A300DD0C9F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A8B6B5D251D58A300DD0C9F /* SceneDelegate.swift */; };
-		5A8B6B60251D58A300DD0C9F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A8B6B5F251D58A300DD0C9F /* ContentView.swift */; };
+		5A8B6B60251D58A300DD0C9F /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A8B6B5F251D58A300DD0C9F /* HomeViewController.swift */; };
 		5A8B6B62251D58A400DD0C9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A8B6B61251D58A400DD0C9F /* Assets.xcassets */; };
 		5A8B6B65251D58A400DD0C9F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A8B6B64251D58A400DD0C9F /* Preview Assets.xcassets */; };
 		5A8B6B68251D58A400DD0C9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A8B6B66251D58A400DD0C9F /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5A2D7F6C25A602050030C3ED /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
+		5A2D7F6F25A6023D0030C3ED /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		5A60D4E825A8B1E800C8F13C /* Chilli Sauce.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = "Chilli Sauce.mov"; path = "../../../../Downloads/Chilli Sauce.mov"; sourceTree = "<group>"; };
+		5A60D4EC25A8BF8E00C8F13C /* PlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerView.swift; sourceTree = "<group>"; };
+		5A60D4F025A8C0FA00C8F13C /* Sultan's Delight.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = "Sultan's Delight.mov"; path = "../../../../Downloads/Sultan's Delight.mov"; sourceTree = "<group>"; };
+		5A60D4F125A8C0FA00C8F13C /* Adana.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Adana.mov; path = ../../../../Downloads/Adana.mov; sourceTree = "<group>"; };
+		5A60D4F225A8C0FA00C8F13C /* Cheese Rolls.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = "Cheese Rolls.mov"; path = "../../../../Downloads/Cheese Rolls.mov"; sourceTree = "<group>"; };
+		5A60D4F425A8C0FA00C8F13C /* Apple Crumble.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = "Apple Crumble.mov"; path = "../../../../Downloads/Apple Crumble.mov"; sourceTree = "<group>"; };
+		5A60D4F525A8C0FA00C8F13C /* Breakfast.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Breakfast.mov; path = ../../../../Downloads/Breakfast.mov; sourceTree = "<group>"; };
+		5A60D4F625A8C0FA00C8F13C /* Jacket Potato.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = "Jacket Potato.mov"; path = "../../../../Downloads/Jacket Potato.mov"; sourceTree = "<group>"; };
 		5A8B6B58251D58A300DD0C9F /* EasyChef.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EasyChef.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A8B6B5B251D58A300DD0C9F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5A8B6B5D251D58A300DD0C9F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		5A8B6B5F251D58A300DD0C9F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		5A8B6B5F251D58A300DD0C9F /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		5A8B6B61251D58A400DD0C9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5A8B6B64251D58A400DD0C9F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5A8B6B67251D58A400DD0C9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -37,6 +57,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5A60D4D925A8A49000C8F13C /* Videos */ = {
+			isa = PBXGroup;
+			children = (
+				5A60D4F425A8C0FA00C8F13C /* Apple Crumble.mov */,
+				5A60D4F025A8C0FA00C8F13C /* Sultan's Delight.mov */,
+				5A60D4F125A8C0FA00C8F13C /* Adana.mov */,
+				5A60D4F625A8C0FA00C8F13C /* Jacket Potato.mov */,
+				5A60D4F525A8C0FA00C8F13C /* Breakfast.mov */,
+				5A60D4F225A8C0FA00C8F13C /* Cheese Rolls.mov */,
+				5A60D4E825A8B1E800C8F13C /* Chilli Sauce.mov */,
+			);
+			path = Videos;
+			sourceTree = "<group>";
+		};
 		5A8B6B4F251D58A300DD0C9F = {
 			isa = PBXGroup;
 			children = (
@@ -58,7 +92,11 @@
 			children = (
 				5A8B6B5B251D58A300DD0C9F /* AppDelegate.swift */,
 				5A8B6B5D251D58A300DD0C9F /* SceneDelegate.swift */,
-				5A8B6B5F251D58A300DD0C9F /* ContentView.swift */,
+				5A2D7F6F25A6023D0030C3ED /* Data.swift */,
+				5A8B6B5F251D58A300DD0C9F /* HomeViewController.swift */,
+				5A2D7F6C25A602050030C3ED /* DetailsView.swift */,
+				5A60D4EC25A8BF8E00C8F13C /* PlayerView.swift */,
+				5A60D4D925A8A49000C8F13C /* Videos */,
 				5A8B6B61251D58A400DD0C9F /* Assets.xcassets */,
 				5A8B6B66251D58A400DD0C9F /* LaunchScreen.storyboard */,
 				5A8B6B69251D58A400DD0C9F /* Info.plist */,
@@ -132,9 +170,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A60D4F825A8C0FA00C8F13C /* Adana.mov in Resources */,
 				5A8B6B68251D58A400DD0C9F /* LaunchScreen.storyboard in Resources */,
 				5A8B6B65251D58A400DD0C9F /* Preview Assets.xcassets in Resources */,
+				5A60D4FC25A8C0FA00C8F13C /* Breakfast.mov in Resources */,
 				5A8B6B62251D58A400DD0C9F /* Assets.xcassets in Resources */,
+				5A60D4FD25A8C0FA00C8F13C /* Jacket Potato.mov in Resources */,
+				5A60D4F725A8C0FA00C8F13C /* Sultan's Delight.mov in Resources */,
+				5A60D4E925A8B1E800C8F13C /* Chilli Sauce.mov in Resources */,
+				5A60D4FB25A8C0FA00C8F13C /* Apple Crumble.mov in Resources */,
+				5A60D4F925A8C0FA00C8F13C /* Cheese Rolls.mov in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,8 +191,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				5A8B6B5C251D58A300DD0C9F /* AppDelegate.swift in Sources */,
+				5A2D7F7025A6023D0030C3ED /* Data.swift in Sources */,
 				5A8B6B5E251D58A300DD0C9F /* SceneDelegate.swift in Sources */,
-				5A8B6B60251D58A300DD0C9F /* ContentView.swift in Sources */,
+				5A60D4ED25A8BF8E00C8F13C /* PlayerView.swift in Sources */,
+				5A8B6B60251D58A300DD0C9F /* HomeViewController.swift in Sources */,
+				5A2D7F6D25A602050030C3ED /* DetailsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
